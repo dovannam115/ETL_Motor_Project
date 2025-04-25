@@ -104,7 +104,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 For inquiries or contributions, please contact dovannama5qtk48@gmail.com.
-
-Feel free to adjust the content as needed to better fit your project's specifics. Let me know if you need any further modifications or additions!
-::contentReference[oaicite:0]{index=0}
  
