@@ -37,12 +37,12 @@ This project leverages PySpark for distributed data processing and Delta Lake fo
    ```
 2. Install required Python packages:
 
-   ```bash
+   ```python
    pip install pyspark delta-spark
    ```
 3. Set up a Spark session:
 
-   ```bash
+   ```python
    from pyspark.sql import SparkSession
    spark = SparkSession.builder \
     .appName("MotorDataETL") \
@@ -50,7 +50,7 @@ This project leverages PySpark for distributed data processing and Delta Lake fo
    ```
 4. Load raw data:
    
-   ```bash
+   ```python
    raw_data = spark.read.format("delta").table("raw_motor_data")
    ```
 5. Run the transformation and loading scripts as per your requirements.
