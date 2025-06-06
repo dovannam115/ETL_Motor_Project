@@ -31,7 +31,7 @@ This project leverages PySpark for distributed data processing and Delta Lake fo
 
 1. Clone the repository:
 
-   ```bash
+   ```python
    git clone https://github.com/dovannam115/ETL_Motor_Project.git
    cd ETL_Motor_Project
    ```
